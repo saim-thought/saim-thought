@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm a passionate coder who loves learning new tech
 
 * 🌐 **LinkedIn:** [Saim Alam](https://www.linkedin.com/in/saimalam1/)
 * 💬 **Discord:** **alam_saim**
+* 🐦 **Twitter/X:** [@saim_alam1](https://x.com/saim_alam1)
 * 🧠 Always open to learning, collaboration, and new ideas!
 
 ---
