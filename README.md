@@ -39,6 +39,7 @@ Welcome to my GitHub profile! I'm a passionate coder who loves learning new tech
 ## 📫 Connect with Me
 
 * 🌐 **LinkedIn:** [Saim Alam](https://www.linkedin.com/in/saimalam1/)
+* 💬 **Discord:** **alam_saim**
 * 🧠 Always open to learning, collaboration, and new ideas!
 
 ---
@@ -58,5 +59,3 @@ Welcome to my GitHub profile! I'm a passionate coder who loves learning new tech
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saim-thought\&layout=compact\&theme=radical)
 
 ---
-
-### ⭐ If you liked my profile, don't forget to leave a star on my repositories!
