@@ -54,14 +54,13 @@ Welcome to my GitHub profile! I'm a passionate coder who loves learning new tech
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![Saim's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saim-thought&show_icons=true&theme=radical)
 
-![Saim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saim-thought&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saim-thought&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saim-thought&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=saim-thought&theme=radical&hide_border=false)
 
 ![Saim's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saim-thought&theme=radical)
 
+![Saim's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saim-thought&theme=radical)
 ---
